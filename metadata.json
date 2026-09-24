@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A smart, feature-rich calculator with scientific functions, calculation history, unit converters, and tip calculator in Material 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
